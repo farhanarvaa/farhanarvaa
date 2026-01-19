@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hello, I'm Farhan Arva Amanta
 
-<!--
-**farhanarvaa/farhanarvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Informatics student who is interested in:
+- Web Development
+- Data Visualization
+- Backend Systems
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- PHP | MySQL
+- HTML | CSS
+- Grafana
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Experience
+- Built visitor attendance system
+- Created dashboards using Grafana
+
+### 🚀 Currently Learning
+- Laravel Framework
